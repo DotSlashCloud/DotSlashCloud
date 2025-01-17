@@ -14,7 +14,7 @@ I’m a Cloud Solution Architect with over a decade of experience in IT. My expe
 - Empower businesses to unlock value through AI and digital transformation.  
 
 🎯 **Featured Projects**  
-Here are a few projects I’m proud of:
+
 
 
 📫 **How to Connect**  
