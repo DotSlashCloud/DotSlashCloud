@@ -15,12 +15,7 @@ I’m a Cloud Solution Architect with over a decade of experience in IT. My expe
 
 🎯 **Featured Projects**  
 Here are a few projects I’m proud of:
-- **[AI Chatbot for Customer Service](https://github.com/DotSlashCloud/ai-chatbot):**  
-  A conversational AI bot fine-tuned for industry-specific support using Hugging Face Transformers.
-- **[Image Classification with PyTorch](https://github.com/DotSlashCloud/image-classification):**  
-  A neural network built to classify images with 90%+ accuracy.
-- **[Power Automate Workflow Library](https://github.com/DotSlashCloud/power-automate-workflows):**  
-  A repository of reusable Power Automate workflows for common business scenarios.
+
 
 📫 **How to Connect**  
 - **LinkedIn:** [linkedin.com/in/ryanfstark](https://linkedin.com/in/ryanfstark)  
