@@ -9,12 +9,18 @@ I’m a Cloud Solution Architect with over a decade of experience in IT. My expe
 - Empower businesses to unlock value through AI and digital transformation.  
 
 🎯 **Featured Projects**
-- **[AI Chatbot for Customer Service](https://github.com/DotSlashCloud/ai-chatbot):**  
-  A conversational AI bot fine-tuned for industry-specific support using Hugging Face Transformers.  
-  **Tech Stack:** Python, Hugging Face, Flask
-- **[Image Classification with PyTorch](https://github.com/DotSlashCloud/image-classification):**  
-  A neural network built to classify images with 90%+ accuracy.  
-  **Tech Stack:** PyTorch, Python, Jupyter Notebook
+- **[Generative AI Chatbot (In Progress)](https://github.com/DotSlashCloud/generative-ai-chatbot):**  
+  Building a conversational AI bot using Hugging Face and OpenAI APIs to assist customers with FAQs and troubleshooting.  
+  **Tech Stack:** Python, Hugging Face, OpenAI API
+
+- **[Image Classifier (Planned)](https://github.com/DotSlashCloud/image-classifier):**  
+  Designing a neural network to classify images from the CIFAR-10 dataset.  
+  **Tech Stack:** PyTorch, TensorFlow, Jupyter Notebook
+
+- **[AI-Powered Task Automation (Planned)](https://github.com/DotSlashCloud/ai-task-automation):**  
+  Creating automated workflows for business use cases with AI-enhanced Power Automate templates.  
+  **Tech Stack:** Power Automate, Microsoft 365, Python
+
 
 📫 **How to Connect**  
 - **LinkedIn:** [linkedin.com/in/ryanfstark](https://linkedin.com/in/ryanfstark)  
